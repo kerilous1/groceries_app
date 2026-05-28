@@ -1,9 +1,15 @@
+
+
 # 🛒 Groceries E-Commerce App
 
 A premium, fully animated grocery shopping application built with Flutter. This project demonstrates a production-ready mobile application featuring a modern UI/UX and a clean, modular codebase.
 
 ## 🎥 App Demo
-*(Drag and drop your demo video here on GitHub)*
+*( 
+
+https://github.com/user-attachments/assets/bd9fd519-091d-4d93-b0dc-325a241de18a
+
+)*
 
 ## ✨ Key Features
 * **Premium UI/UX:** Clean, modern design featuring a custom curved navigation bar and crisp SVG icons for a pixel-perfect look.
