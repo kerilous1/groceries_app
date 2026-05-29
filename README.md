@@ -6,9 +6,7 @@ A premium, fully animated grocery shopping application built with Flutter. This 
 
 ## 🎥 App Demo
 
-https://github.com/user-attachments/assets/d0162e08-b1e8-4db6-9021-197c21c97e52
-
-
+https://github.com/user-attachments/assets/10b37930-8a47-4d12-bc4d-253e4d36fc71
 
 ## ✨ Key Features
 * **Premium UI/UX:** Clean, modern design featuring a custom curved navigation bar and crisp SVG icons for a pixel-perfect look.
